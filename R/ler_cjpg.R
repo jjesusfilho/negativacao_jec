@@ -25,4 +25,4 @@ arquivos <- list.files("data", full.names = T)
 
 cjpg <- map_dfr(arquivos, ~readRDS(.x))
 
-
+# comentário final
