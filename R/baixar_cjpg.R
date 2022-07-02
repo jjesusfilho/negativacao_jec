@@ -11,4 +11,3 @@ tjsp::tjsp_baixar_cjpg(
   assunto = assunto,
   diretorio  = "/Users/jjesusfilho/Documents/pacotes/projetos/negativacao_jec/data-raw/cjpg"
 )
-
